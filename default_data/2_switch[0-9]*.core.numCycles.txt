@@ -1,0 +1,6 @@
+board.processor.switch0.core.numCycles     1354354344                       # Number of cpu cycles simulated (Cycle)
+board.processor.switch1.core.numCycles     1354066837                       # Number of cpu cycles simulated (Cycle)
+board.processor.switch0.core.numCycles     1354167593                       # Number of cpu cycles simulated (Cycle)
+board.processor.switch1.core.numCycles     1354354353                       # Number of cpu cycles simulated (Cycle)
+board.processor.switch0.core.numCycles     1354354341                       # Number of cpu cycles simulated (Cycle)
+board.processor.switch1.core.numCycles     1352280565                       # Number of cpu cycles simulated (Cycle)

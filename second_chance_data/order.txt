@@ -1,0 +1,10 @@
+deepsjeng
+exchange
+gcc
+leela
+mcf
+omnet
+perl
+x264
+xalan
+xz

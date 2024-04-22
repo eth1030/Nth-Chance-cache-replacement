@@ -1,0 +1,9 @@
+qsub 1_bwaves_default.sh
+qsub 1_gcc_default.sh
+qsub 1_perl_default.sh
+qsub 2_bwaves_default.sh
+qsub 2_gcc_default.sh
+qsub 2_perl_default.sh
+qsub 4_bwaves_default.sh
+qsub 4_gcc_default.sh
+qsub 4_perl_default.sh
